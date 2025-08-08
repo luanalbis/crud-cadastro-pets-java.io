@@ -1,0 +1,10 @@
+nomeArquivo=20250727T2016-MIKEALBIS.txt
+nome=Mike Albis
+tipo=Cachorro
+sexo=Macho
+endereco=Rua Minas Gerais, 990, Val
+idade=5,0 Anos
+peso=12,0KG
+raca=Vira lata
+porte=Médio
+amanda=amanda

@@ -1,0 +1,8 @@
+nome=Qual o nome e sobrenome do pet?(Apenas letras)
+tipo=Qual o tipo do pet (Cachorro/Gato)? Apenas C ou G
+sexo=Qual o sexo do animal? Apenas M ou F
+endereco=Qual endereço que ele foi encontrado?
+idade=Qual a idade aproximada do pet?
+peso=Qual o peso aproximado do pet?
+raca=Qual a raça do pet?
+porte=Qual o porte do PET?

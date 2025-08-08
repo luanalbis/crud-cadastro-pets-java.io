@@ -1,0 +1,5 @@
+Cadastrar um novo pet
+Listar todos os pets cadastrados
+Buscar pets por palavra-chave
+Buscar pets por data
+Voltar

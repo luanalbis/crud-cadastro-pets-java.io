@@ -1,0 +1,9 @@
+nomeArquivo=20250727T2254-AMANDAOLIVEIRA.txt
+nome=amanda oliveira
+tipo=Gato
+sexo=Fêmea
+endereco=minas, 1660, val
+idade=20,0 Anos
+peso=40,0KG
+raca=humano
+porte=gostosa
