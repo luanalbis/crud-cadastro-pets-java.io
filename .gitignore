@@ -1,0 +1,22 @@
+# Compilados Java
+*.class
+
+# Pastas de build
+/bin/
+/out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Arquivos temporários e logs
+*.log
+*.tmp
